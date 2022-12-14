@@ -1,0 +1,1 @@
+I'm gonna make a website that have some food recipes. I'm gonna create it with just HTML knowledge so i guess it won't look good. But it will be my first project about HTML so I'm kinda excited
